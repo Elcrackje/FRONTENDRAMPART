@@ -1,0 +1,107 @@
+{
+  "filters": "Filters",
+  "orders": "Orders",
+  "edit order": "Edit order",
+  "cancel order": "Cancel order",
+  "order": "Order",
+  "customerId": "Customer ID",
+  "orderDate": "Order Date",
+  "deliveryDate": "Delivery Date",
+  "deliveryTime": "Delivery Time",
+  "paymentMethod": "Payment Method",
+  "status": "Status",
+  "pending":"Pending",
+  "in preparation":"In preparation",
+  "completed":"Completed",
+
+  "home": {
+    "welcomeMessage": "Welcome, {name}!",
+    "explorePrompt": "Explore delicious dishes and place your order.",
+    "popularDishes": "Most Popular Dishes",
+    "cookName": "Cook: {name}",
+    "rating": "Rating: {rating} ⭐",
+    "orders": "Orders: {count}",
+    "viewMorePosts": "View More Posts"
+  },
+
+  "chefs": {
+    "title": "Our Chefs",
+    "addChefButton": "Add Chef",
+    "searchByName": "Search by name",
+    "searchByRating": "Search by rating",
+    "imageAlt": "Image of {name}",
+    "rating": "Rating",
+    "editButton": "Edit",
+    "deleteButton": "Delete"
+  },
+
+  "routes": {
+    "home": "Home",
+    "about": "About us",
+    "chefs": "Chefs",
+    "orders": "Orders",
+    "posts": "Posts",
+    "dishes": "Recipes",
+    "favorites": "Favorites",
+    "signIn": "Sign In",
+    "signUp": "Sign Up"
+  },
+
+  "favorites": {
+    "chefs": "Favorite Chefs",
+    "recipes": "Favorite Recipes",
+    "rating": "Rating",
+    "ingredients": "Ingredients",
+    "preparationSteps": "Preparation Steps",
+    "publishedBy": "Published by",
+    "unknownChef": "Unknown Chef"
+  },
+
+  "dishes": {
+    "title": "Recipes from our chefs",
+    "searchPlaceholder": "Search recipes by name or ingredients",
+    "createNewDish": "Create new recipe",
+    "publishedBy": "Published by",
+    "unknownChef": "Unknown chef",
+    "ingredients": "Ingredients",
+    "preparationSteps": "Preparation steps",
+    "edit": "Edit",
+    "delete": "Delete"
+  },
+
+  "posts": {
+    "title": "Posts",
+    "searchPlaceholder": "Search by dish, ingredients, or chef",
+    "showAll": "Show All",
+    "noPostsFound": "No posts found matching the search criteria."
+  },
+
+  "createPost": {
+    "createPostButton": "Create Post",
+    "dialogHeader": "Create Post",
+    "selectChef": "Select a Chef",
+    "selectDish": "Select a Dish",
+    "enterStock": "Enter Stock",
+    "enterUnitPrice": "Enter Unit Price",
+    "submitButton": "Submit"
+  },
+
+  "postDisplay": {
+    "chef": "Chef",
+    "rating": "Rating",
+    "dish": "Dish",
+    "stock": "Stock",
+    "deliveryDate": "Delivery Date",
+    "unitPrice": "Unit Price",
+    "viewIngredients": "View Ingredients",
+    "placeOrder": "Place Order",
+    "ingredientListHeader": "Ingredient list of {dishName}",
+    "orderHeader": "Place order for {dishName}",
+    "amountOfDishes": "Amount of Dishes",
+    "deliveryTime": "Delivery Time",
+    "totalPrice": "Total Price",
+    "submitButton": "Submit",
+    "loading": "Loading data..."
+  }
+}
+
